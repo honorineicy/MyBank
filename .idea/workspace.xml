@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="627c69af-62c6-4a74-b9c6-6c261a65f5a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e0zsF9D4hmTNGPPW9Yi9IeTPpY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Bank Account" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="627c69af-62c6-4a74-b9c6-6c261a65f5a8" name="Default Changelist" comment="" />
+      <created>1593473502053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593473502053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1593800882013">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1593800882013" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1594071037580">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594071037580" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1594071037579">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594071037579" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1594071037578">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594071037578" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1594071037579">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594071037579" />
+    <state x="370" y="162" key="NewModule_or_Project.wizard" timestamp="1594065955125">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="370" y="162" key="NewModule_or_Project.wizard/0.23.1440.877@0.23.1440.877" timestamp="1594065955125" />
+    <state x="413" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1594063224825">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="413" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1594063224825" />
+    <state x="378" y="83" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593954818026">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="378" y="83" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.877@0.23.1440.877" timestamp="1593954818026" />
+    <state x="149" y="84" key="new project wizard" timestamp="1593558467635">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="149" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1593558467635" />
+  </component>
+</project>
