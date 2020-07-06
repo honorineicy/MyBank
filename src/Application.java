@@ -35,7 +35,6 @@ public class Application {
                 System.out.println("Enter a valid option");
 
 
-// Why does it bring error when I do not choose anything? To ask Fab
         }
     }
 }
